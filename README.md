@@ -6,17 +6,17 @@
 
 ---
 
-## Stage 1: Data Cleaning & Annotation
+## 🧹📊 Stage 1: Data Cleaning & Annotation
 
 **Duration:** 15 Dec 2025 – 19 Dec 2025
 
-### Task 1: Detection Error Inspection
+### 🔍 Task 1: Detection Error Inspection
 
 We have recorded a set of humanoid facial expression animations and applied **MediaPipe Face Landmarker** to extract facial landmarks and blendshape coefficients. These video data will be used to train models for humanoid facial expression generation. However, we have observed that some detection results are inaccurate or unstable.
 
 ![error](assets/mediapipe_detection_error_256.png)
-*Landmarks around the eyelids are incorrectly detected, as indicated by the red box.*
 
+*Example error cases: landmarks around the eyelids are incorrectly detected*
 
 **Your task:**
 
@@ -38,7 +38,7 @@ Please submit **either a PowerPoint (.ppt/.pptx) or a Word document (.doc/.docx)
 
 ---
 
-### Task 2: Sentiment Labeling (Listener Reactions)
+### 😊😐😞 Task 2: Sentiment Labeling (Listener Reactions)
 
 **Objective**
 Label the *sentiment of the listener* in conversational video clips. You will observe individuals who are listening to someone else speak and annotate their facial expressions and non-verbal reactions.
@@ -59,7 +59,7 @@ Assign **one** of the following sentiment labels to each video clip:
 
 ---
 
-### Confidentiality & Data Privacy
+### 🔒 Confidentiality & Data Privacy
 
 This dataset is **confidential and sensitive**.
 
@@ -69,7 +69,7 @@ This dataset is **confidential and sensitive**.
 
 ---
 
-### Data Access & Submission
+### 📂 Data Access & Submission
 
 * **Data location:**
 
@@ -83,19 +83,20 @@ This dataset is **confidential and sensitive**.
 
 ---
 
-## Reading List
+## 📚 Reading List
 
 To better understand the background and motivation of this project, please review the following papers:
 
-* Responsive Listening Head Generation: A Benchmark Dataset and Baseline
-  [https://arxiv.org/pdf/2112.13548](https://arxiv.org/pdf/2112.13548)
+* [X2C: A Dataset Featuring Nuanced Facial Expressions
+for Realistic Humanoid Imitation](https://arxiv.org/pdf/2505.11146)
 
-* REACT 2025: The Third Multiple Appropriate Facial Reaction Generation Challenge
-  [https://arxiv.org/pdf/2505.17223](https://arxiv.org/pdf/2505.17223)
+* [Responsive Listening Head Generation: A Benchmark Dataset and Baseline](https://arxiv.org/pdf/2112.13548)
+
+* [REACT 2025: The Third Multiple Appropriate Facial Reaction Generation Challenge](https://arxiv.org/pdf/2505.17223)
 
 ---
 
-## Stage 2: Test Dataset Curation
+## 🧪🗂️ Stage 2: Test Dataset Curation
 
 **Duration:** 5 Jan 2026 – 16 Jan 2026
 
@@ -103,9 +104,8 @@ To better understand the background and motivation of this project, please revie
 
 ---
 
-## Stage 3: Real-World Robot Experiments
+## 🤖🌍 Stage 3: Real-World Robot Experiments
 
 **Duration:** 19 Jan 2026 – 23 Jan 2026
 
 (Details to be provided closer to the start date.)
-
