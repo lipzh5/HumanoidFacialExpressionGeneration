@@ -14,7 +14,7 @@
 
 We have recorded a set of humanoid facial expression animations and applied **MediaPipe Face Landmarker** to extract facial landmarks and blendshape coefficients. These video data will be used to train models for humanoid facial expression generation. However, we have observed that some detection results are inaccurate or unstable.
 
-![error](assets/mediapipe_detection_error.png)
+![error](assets/mediapipe_detection_error_256.png)
 *Landmarks around the eyelids are incorrectly detected, as indicated by the red box.*
 
 
