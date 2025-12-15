@@ -37,6 +37,31 @@ Please submit **either a PowerPoint (.ppt/.pptx) or a Word document (.doc/.docx)
 **Video resources:**
 [Link to videos](https://drive.google.com/drive/folders/1y508WpiocS9l9dtZ2e_QRJSpngERUEuK?usp=sharing)
 
+### 🌟 Extended Exercise (Optional)
+To further enrich this task, we have also provided the raw humanoid facial expression animation videos: [raw video resources](https://drive.google.com/drive/folders/1lKMjNPekqGX8hiYOKSDfYlYyo8XA5oNk?usp=sharing), feel free to utilize [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker), [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) or other tool to analyze these videos and submit any interesting discoveries: e.g., under what condition the tools fail to detect accurate facial landmarks, blendshapes or any other facial features.
+
+You are encouraged to analyze these videos using [MediaPipe Face Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker), [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace), or any other facial analysis tools of your choice (e.g., landmark detectors, blendshape extractors).
+
+**Suggested directions include (but are not limited to):**
+
+- Investigating conditions under which facial analysis tools fail or become unstable, such as:
+
+- Extreme or subtle facial expressions
+
+- Rapid motion or temporal jitter
+
+- Self-occlusion (e.g., eyelids, mouth corners)
+
+- Comparing the performance of different tools (e.g., MediaPipe vs. OpenFace) on the same sequences.
+
+Identifying systematic biases or limitations when applying human-oriented facial analysis models to humanoid or animated faces.
+
+Submission (optional):
+You may include your findings as an additional section in the same PowerPoint or Word document. Screenshots, short video clips, plots, or concise qualitative observations are all acceptable, provided they clearly support your conclusions.
+
+The goal of this extended exercise is to encourage deeper exploration and critical thinking about the robustness and limitations of current facial analysis pipelines when applied to humanoid facial expression data.
+
+
 ---
 
 ### 😊😐😞 Task 2: Sentiment Labeling (Listener Reactions)
@@ -94,6 +119,9 @@ for Realistic Humanoid Imitation](https://arxiv.org/pdf/2505.11146)
 * [Responsive Listening Head Generation: A Benchmark Dataset and Baseline](https://arxiv.org/pdf/2112.13548)
 
 * [REACT 2025: The Third Multiple Appropriate Facial Reaction Generation Challenge](https://arxiv.org/pdf/2505.17223)
+
+
+
 
 ---
 
