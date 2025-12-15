@@ -57,7 +57,7 @@ You are encouraged to analyze these videos using [MediaPipe Face Landmarker](htt
 Identifying systematic biases or limitations when applying human-oriented facial analysis models to humanoid or animated faces.
 
 Submission (optional):
-You may include your findings as an additional section in the same PowerPoint or Word document. Screenshots, short video clips, plots, or concise qualitative observations are all acceptable, provided they clearly support your conclusions.
+You may include your findings as an additional section in the same PowerPoint or Word document. Screenshots, short video clips, plots, or concise qualitative observations are all acceptable, provided they clearly support your conclusions. The submission deadline is **the end of the project**.
 
 The goal of this extended exercise is to encourage deeper exploration and critical thinking about the robustness and limitations of current facial analysis pipelines when applied to humanoid facial expression data.
 
