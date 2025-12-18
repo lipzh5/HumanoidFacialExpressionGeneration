@@ -42,6 +42,9 @@ To further enrich this task, we have also provided the raw humanoid facial expre
 
 You are encouraged to analyze these videos using [MediaPipe Face Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker), [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace), or any other facial analysis tools of your choice (e.g., landmark detectors, blendshape extractors).
 
+<details>
+  <summary>Click to expand</summary>
+  
 **Suggested directions include (but are not limited to):**
 
 - Investigating conditions under which facial analysis tools fail or become unstable, such as:
@@ -60,6 +63,8 @@ Submission (optional):
 You may include your findings as an additional section in the same PowerPoint or Word document. Screenshots, short video clips, plots, or concise qualitative observations are all acceptable, provided they clearly support your conclusions. The submission deadline is **the end of the project**.
 
 The goal of this extended exercise is to encourage deeper exploration and critical thinking about the robustness and limitations of current facial analysis pipelines when applied to humanoid facial expression data.
+
+</details>
 
 
 ---
