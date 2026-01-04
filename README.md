@@ -134,7 +134,91 @@ for Realistic Humanoid Imitation](https://arxiv.org/pdf/2505.11146)
 
 **Duration:** 5 Jan 2026 – 16 Jan 2026
 
-(Details to be provided closer to the start date.)
+In this stage, you will get hands-on experience with a virtual humanoid robot and help us build a small but well-structured test dataset for evaluating emotionally responsive facial expression generation.
+
+### 🤖 Task 1: Operating the Virtual Humanoid Robot
+**Objective:**
+
+Get familiar with the virtual humanoid environment, understand how facial expressions are controlled, and learn how facial animations are generated.
+
+**What you will do:**
+
+- Get an introduction to the virtual robot environment.
+
+- Learn what facial control values are (e.g., blendshape coefficients or expression parameters).
+
+- Observe how changing control values affects the robot’s facial expressions.
+
+- Practice operating the virtual robot and triggering different facial expressions.
+
+Penny will **demonstrate the system in person** and guide you step by step. No prior experience with robots is required—this task is mainly about exploration and understanding 😊
+
+
+![virtualenv](assets/virtual_animator.png)
+
+*An overview of the virtual humanoid environment*
+
+
+
+
+### 🧩 Task 2: Constructing Human–Humanoid Expression Pairs
+
+**Objective:**
+
+Create paired examples of human facial expressions and corresponding humanoid facial expressions, which will be used as a test dataset for later evaluation.
+
+This task focuses on building intuition about facial expressions and how they can be transferred from humans to humanoid robots.
+
+**What you will do:**
+
+**1. Define an Expression Vocabulary**
+
+- Decide on a small set of facial expressions
+(e.g., smile, frown, surprise, disgust, neutral).
+
+- Define expression intensity levels
+(e.g., low / medium / high).
+
+- Keep the set simple and consistent.
+
+**2. Human Data Selection or Capture**
+
+- Select suitable human facial expression samples from existing datasets, or
+- Capture new human facial expression data following provided instructions.
+
+**3.  Humanoid Expression Generation**
+
+- Generate corresponding robot facial control values for each selected expression.
+
+- Use the virtual robot to reproduce these expressions.
+
+- Record the resulting humanoid facial animations.
+
+- These recordings will serve as pseudo ground-truth for testing and evaluation.
+
+### 📦 Submission & Deliverables
+
+By the end of Stage 2, please submit:
+
+- A folder containing:
+
+  - Selected or captured human facial expression data
+
+  - Recorded humanoid facial expression animations
+
+- A short document (PowerPoint or Word) including:
+
+  - The defined expression categories and intensity levels
+
+  - Example human–humanoid expression pairs (screenshots or short descriptions)
+
+  - Brief notes on any difficulties or interesting observations
+
+There is **no need for perfect results**—this stage is about learning, exploration, and building a useful test set together 🌱
+
+![human-humanoid-pair](assets/human-humanoid-pair.png)
+
+*Examples of human–humanoid expression pairs*
 
 ---
 
