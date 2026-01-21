@@ -183,7 +183,7 @@ This task focuses on building intuition about facial expressions and how they ca
 
 **2. Human Data Selection or Capture**
 
-- Select suitable human facial expression samples from existing datasets, or
+- Select suitable human facial expression samples from existing datasets (React25 or ViCo), or
 - Capture new human facial expression data following provided instructions.
 
 **3.  Humanoid Expression Generation**
@@ -226,4 +226,4 @@ There is **no need for perfect results**—this stage is about learning, explora
 
 **Duration:** 19 Jan 2026 – 23 Jan 2026
 
-(Details to be provided closer to the start date.)
+In this stage, you'll get hands-on experience with real-world human–robot interaction experiments focusing on **facial expression imitation and generation**. You'll be working closely with the robot and the research team, and we'll walk you through everything you need to know on site—no worries!
