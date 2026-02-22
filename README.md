@@ -1,6 +1,7 @@
 # Facial Expression Generation for Emotionally Responsive Humanoids
 
-* **Summer Research Internship Project**
+* **Summer Research Internship Project (2025)**
+
   Faculty of Science and Engineering, Macquarie University
 * **Supervisors:** Penny (Peizhen Li), Prof. Longbing Cao (Distinguished Chair in AI)
 * **Interns:** Vathana Khun, Md Juhaer Adittya Pasha
